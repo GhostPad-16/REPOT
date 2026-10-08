@@ -1,0 +1,16 @@
+# Arduino / PlatformIO build artifacts
+.pio/
+build/
+*.elf
+*.bin
+*.hex
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local test data
+data/*.csv
+data/*.log
